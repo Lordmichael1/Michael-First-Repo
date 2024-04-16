@@ -1,0 +1,33 @@
+body{
+    font-family:Arial, san-serif;
+    margin:20px;
+    padding:20px;
+    color: rgb(0, 0, 0);
+    }
+    
+h1{
+    color:#3f01ce;
+    }
+    
+form{
+    max-width: 400px;
+    margin: 20px;
+    }
+
+label{
+    display: block;
+    margin-bottom: 5px;
+}
+
+input,textarea{
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    color: rgb(106, 208, 248);
+}
+
+error{
+    color: rgb(255, 6, 6);
+}
+
